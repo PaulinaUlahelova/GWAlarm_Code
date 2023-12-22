@@ -1,0 +1,9 @@
+To start the GW alarm write this into the terminal:
+
+- we first need to activate the kivy virtual environment
+
+source kivy_venv/bin/activate
+
+- then open it via the command
+
+python Desktop/"GW_Alarm_Code"/GWAlarm_Screens_v3.py
